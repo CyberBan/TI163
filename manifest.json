@@ -1,7 +1,7 @@
 {
-  "name": "Schedule",
-  "short_name": "Schedule",
-  "description": "University Schedule Mobile Website",
+  "name": "Расписание ",
+  "short_name": "Расписание",
+  "description": "Расписание",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
