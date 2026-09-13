@@ -1,5 +1,5 @@
 {
-  "name": "University Schedule",
+  "name": "Schedule",
   "short_name": "Schedule",
   "description": "University Schedule Mobile Website",
   "start_url": "/",
@@ -8,16 +8,9 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/favicon-v2.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/favicon-v2.png",
+      "src": "/favicon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
